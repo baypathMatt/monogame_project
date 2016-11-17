@@ -11,11 +11,18 @@ namespace MonoSnakeGame
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Player pOne;
+        Gem gOne;
+        Texture2D genTex;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            graphics.PreferredBackBufferWidth = 1000;
+            graphics.PreferredBackBufferHeight = 600;
+            graphics.ApplyChanges();
         }
 
         /// <summary>
@@ -37,10 +44,16 @@ namespace MonoSnakeGame
         /// </summary>
         protected override void LoadContent()
         {
+
+            genTex = new Texture2D(GraphicsDevice, 1, 1);
+            genTex.SetData(new[] { Color.White });
+
+            pOne = new Player(4, Color.Green, new Rectangle(300, 300, 25, 25), genTex);
+            gOne = new Gem(400, 100, genTex, Color.Red);
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+
         }
 
         /// <summary>
@@ -61,6 +74,19 @@ namespace MonoSnakeGame
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
+            pOne.Update();
+            gOne.Update();
+
+            if (pOne.getColor() == Color.Black)
+            {
+                Exit();
+            }
+
+            if(pOne.gemGet(gOne) == true)
+            {
+                gOne.Hide();
+                pOne.grow();
+            }
 
             // TODO: Add your update logic here
 
@@ -73,9 +99,14 @@ namespace MonoSnakeGame
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
-
+            GraphicsDevice.Clear(Color.Black);
+            spriteBatch.Begin();
+            pOne.Draw(spriteBatch);
+            gOne.Draw(spriteBatch);
+            spriteBatch.End();
             // TODO: Add your drawing code here
+
+
 
             base.Draw(gameTime);
         }
