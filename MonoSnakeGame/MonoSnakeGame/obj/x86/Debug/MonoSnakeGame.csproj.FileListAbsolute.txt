@@ -1,0 +1,76 @@
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.csprojResolveAssemblyReference.cache
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoSnakeGame.exe
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoSnakeGame.pdb
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.exe
+D:\Personal Shop Projects\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.pdb
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoSnakeGame.exe
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoSnakeGame.pdb
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.csprojResolveAssemblyReference.cache
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.exe
+D:\MonoSnake\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.pdb
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.exe
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.pdb
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoSnakeGame.exe
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoSnakeGame.pdb
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\obj\x86\Debug\MonoSnakeGame.csprojResolveAssemblyReference.cache
+D:\Monogame\MonoSnakeProject\monogame_project-default-project\MonoSnakeGame\MonoSnakeGame\bin\Windows\x86\Debug\Content\gemScore.xnb
